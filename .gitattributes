@@ -1,0 +1,3 @@
+# 统一行尾处理：文本文件在仓库中统一存 LF，检出时按各平台自动转换
+# 加上它之后，就不会再出现 "LF will be replaced by CRLF" 这类警告
+* text=auto
